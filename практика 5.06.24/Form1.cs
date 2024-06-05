@@ -15,7 +15,7 @@ namespace практика_5._06._24
 
 
         }
-
+        //коммит
         private void button1_Click(object sender, EventArgs e)
         {
             cat.Feed(5, pictureBox1, progressBar1);
